@@ -37,3 +37,6 @@
 [submodule "site/ciniki-mods/web"]
 	path = site/ciniki-mods/web
 	url = git://github.com/ciniki/web.git
+[submodule "site/ciniki-mods/bugs"]
+	path = site/ciniki-mods/bugs
+	url = git://github.com/ciniki/bugs.git
