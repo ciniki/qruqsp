@@ -15,5 +15,6 @@ site/index.php
 site/ciniki-code
 site/ciniki-cache
 site/ciniki-backups
+mysql.sh
 logs/
 /ssl
